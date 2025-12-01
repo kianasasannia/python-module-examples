@@ -37,4 +37,5 @@ if not upper :
 if not lower :
     print("at least one lower character needed ")
 if not number :
+
     print("at least one number needed ")
